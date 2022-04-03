@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talhatahirr
-- 👀 I’m interested in android an iOS app development
+- 👀 I’m interested in android and iOS app development
 - 🌱 I’m currently learning artificial intelligence and app development
 
 <!---
