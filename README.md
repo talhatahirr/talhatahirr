@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhatahirr
-- 👀 I’m interested in android and iOS app development
-- 🌱 I’m currently learning artificial intelligence and app development
+- 👀 I’m interested in front-end web development, android and iOS app development
+- 🌱 I’m currently doing web dev on ReactJs
 
 <!---
 talhatahirr/talhatahirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
